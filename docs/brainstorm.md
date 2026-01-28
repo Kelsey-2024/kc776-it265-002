@@ -81,7 +81,7 @@
   - "Simple Rules, Dark Worlds."
 
 -- **Sketches/Logo**:
-(TBD - thinking eyes in darkness)
+- TBD - thinking eyes in darkness
 ---
 
 ## Additional Notes
