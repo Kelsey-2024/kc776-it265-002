@@ -4,9 +4,9 @@
 ### Date: [02/10/2026]
 
 #### Goals for this Module
- [ ] GSolidify the physical board game concept for *Into the Shadows*
- [ ] Define tile-based exploration and room reveal mechanics
- [ ] Brainstorm card systems and environmental hazards, such as traps
+- [ ] Solidify the physical board game concept for *Into the Shadows*
+- [ ] Define tile-based exploration and room reveal mechanics
+- [ ] Brainstorm card systems and environmental hazards, such as traps
 
 #### Progress
 - **What I accomplished**:
@@ -31,7 +31,7 @@
 - For digital game: To create sprites, libra sprite, a sprite, inkscape, tabletop 
 -  Wondering how the physical design will translate cleanly to a digital Unity prototype later.
 - Example prompts:
-  - "Does my current design support scalability? How can it improve?"
+  - Does my current design support scalability? How can it improve?
   - Should event cards resolve immediately or have lingering effects on the board?
   - How can suspense be created through a board game?
   - How much information should players have about danger before entering a room?
