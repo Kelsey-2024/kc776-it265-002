@@ -2,15 +2,13 @@
 ## Name: Kelsey Cordero
 ### Module: 10
 <!-- Repeat the below as needed-->
-### Date: [04/2D/2026]
+### Date: [04/20/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
 - [X] Explore Unity and understand basic tools and interface
 - [X] Begin planning digital implementation of core mechanics
 - [ ] Decide on movement systems (dice based vs. free movement)
 - [ ] Define how players interact with rooms in real time
--->
 
 #### Progress
 - **What I accomplished**:
